@@ -251,6 +251,6 @@ export const projects = [
         theme: 'btn-back-pink',
         name: '3D-Portfolio',
         description: "Je vous présente un de mes portfolios en ligne, celui ci étant en 3D pour une immersion rare et différente de ce que vous avez l'habitude de consulter.",
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        link: 'https://github.com/todplaz/my-3D-portfolio',
     },
 ];
